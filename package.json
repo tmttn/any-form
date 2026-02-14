@@ -16,6 +16,6 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "@builder.io/sdk-vue": "^0.13.0"
+    "@builder.io/sdk-vue": "^5.0.0"
   }
 }
