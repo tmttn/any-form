@@ -539,9 +539,9 @@
   integrity sha512-dYRwg4MqfHR5/BcTy285XOGRhjQFmNpaJBZ0tl2oU+RY595MQ5ApTF6j3OvauPAooHL6cfoOZMySQrOQztT8RQ==
 
 "@builder.io/sdk-vue@^5.0.0":
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.1.1.tgz#81a3e2d619bf7f96d82d192f5ed2573ca9a3075a"
-  integrity sha512-0VHf3HNxM7oxulGbSklHjjG+K+4Vsl0Ir9wFLTEb7OJZDv/Iu6nRRVcUA3W4xnEKs7Zf5s1aMb+uMQ+0xWE0hA==
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.2.0.tgz#52a8b2e98579911cc0f2dd24da26abd3ae397b6e"
+  integrity sha512-3xIug77IFmvZvLvn8qicYRYnBW1JAKHOBusUUsh4v1J7q3q+4P1QaEJ10G+O7EBYtgggKBj+r9zycfqFnjOKRA==
   dependencies:
     isolated-vm "^6.0.0"
 
@@ -6791,9 +6791,9 @@ prr@~1.0.1:
   integrity sha512-yPw4Sng1gWghHQWj0B3ZggWUm4qVbPwPFcRG8KyxiU7J2OHFSoEHKS+EZ3fv5l1t9CyCiop6l/ZYeWbrgoQejw==
 
 pump@^3.0.0:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.3.tgz#151d979f1a29668dc0025ec589a455b53282268d"
-  integrity sha512-todwxLMY7/heScKmntwQG8CXVkWUOdYxIvY2s0VWAAMh/nd8SoYiRaKjlr7+iCs984f2P8zvrfWcDDYVb73NfA==
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/pump/-/pump-3.0.4.tgz#1f313430527fa8b905622ebd22fe1444e757ab3c"
+  integrity sha512-VS7sjc6KR7e1ukRFhQSY5LM2uBWAUPiOPa/A3mkKmiMwSmRFUITt0xuj+/lesgnCv+dPIEYlkzrcyXgquIHMcA==
   dependencies:
     end-of-stream "^1.1.0"
     once "^1.3.1"
