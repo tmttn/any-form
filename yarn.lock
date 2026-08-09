@@ -576,9 +576,9 @@
   integrity sha512-dTRfo9Q9B+lbLG3JCu8a/AGQSfD2XXcFcnakQzVjSOX+VvR/s9zpsH8TlqV3iHqazniRn1Ypwd1hcRlXcu/4BA==
 
 "@builder.io/sdk-vue@^5.0.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.2.5.tgz#ab1a85234dfe773a4cda0679b9782ee8e8a64b69"
-  integrity sha512-o1XrAEr+W9nqYKJ5Brn1V5bovGAYK1TG9B/9DuoyxepnZaBnflLsacgsrjGSRIemYWxxrdHWyb6TXib7lqe4IQ==
+  version "5.2.6"
+  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.2.6.tgz#0998795d3f219aba59f887f32f5dab9acaa6ae88"
+  integrity sha512-YDSeq93tajXEljpkw9NUZYLd9ggDQmo7SkFOOBZIA7S7CO1w9bgF+6mZATCjgluPs0NEw/uIH0kEuJgqXVRQ/g==
   dependencies:
     isolated-vm "^6.0.0"
 
@@ -4610,9 +4610,9 @@ isexe@^4.0.0:
   integrity sha512-FFUtZMpoZ8RqHS3XeXEmHWLA4thH+ZxCv2lOiPIn1Xc7CxrqhWzNSDzD+/chS/zbYezmiwWLdQC09JdQKmthOw==
 
 isolated-vm@^6.0.0:
-  version "6.1.2"
-  resolved "https://registry.yarnpkg.com/isolated-vm/-/isolated-vm-6.1.2.tgz#812c655f9dc4e1328a766d520cff6c3a88ee911b"
-  integrity sha512-GGfsHqtlZiiurZaxB/3kY7LLAXR3sgzDul0fom4cSyBjx6ZbjpTrFWiH3z/nUfLJGJ8PIq9LQmQFiAxu24+I7A==
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/isolated-vm/-/isolated-vm-6.2.0.tgz#7d9910c2eba2449819f98464a6740f6087a7861a"
+  integrity sha512-UuSlxSHWt2QuJ5WvBhzlIJx2VVZN/a44SqBbEZFKNdvuSyhOvhmyDo8SQ+njVbhnh/njoL/aW0bUTiFYlpweGQ==
   dependencies:
     node-gyp-build "^4.8.4"
 
