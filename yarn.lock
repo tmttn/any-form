@@ -546,9 +546,9 @@
   integrity sha512-dTRfo9Q9B+lbLG3JCu8a/AGQSfD2XXcFcnakQzVjSOX+VvR/s9zpsH8TlqV3iHqazniRn1Ypwd1hcRlXcu/4BA==
 
 "@builder.io/sdk-vue@^5.0.0":
-  version "5.2.12"
-  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.2.12.tgz#0f04a5d4329d0100babb6da108374e20942863a8"
-  integrity sha512-DPaL2p0AEEViFlNDeI1rR4ENS6cFDkM44BfgY7spi65H9wzDU6pVzOBwS3PSMB7I7btdnZj3/Uv2md/VWsvfdg==
+  version "5.2.14"
+  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.2.14.tgz#2ed8dda95c3a04d4f3636dcbe6ded8019e62efdb"
+  integrity sha512-5zQH9z8mDyuzUJjTUki7/VcJ8DAwblT+f4MUy+fkrLn3qscBQ5xSL6788t3sYkZCPs1U72I8DUBBG2F+Pp88wA==
   dependencies:
     isolated-vm "^6.0.0"
 
