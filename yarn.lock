@@ -559,9 +559,9 @@
     "@babel/helper-validator-identifier" "^8.0.6"
 
 "@builder.io/sdk-vue@^5.0.0":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.4.1.tgz#ae26446d5a235e4edf243ce3371e2b85ddee08d9"
-  integrity sha512-rjlYjUi0bjEqmXaZBYFE5l2RmqlFNRO9tezMyTOQNAqznTSsk558YmF+zLKR0LUv2Qz74ESknWV8XfRN64wxHg==
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/@builder.io/sdk-vue/-/sdk-vue-5.4.2.tgz#31548d6453af3ba8535060920f43c443c4021cfd"
+  integrity sha512-SBkHMlGeTPJagEVl+KrzSOX+87yjkz4hrB2uEYvZykWZrZsqQ/OWLcKzlew25M9v52U1Q5/12gqWsCo+ZBtSIA==
   dependencies:
     isolated-vm "^6.0.0"
 
